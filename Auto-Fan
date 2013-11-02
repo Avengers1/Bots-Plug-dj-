@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
 //When script loads
-API.sendChat("/me fan 4 fan,vira meu fan seus potos viro de volta! :D")
+API.sendChat("/me Auto-Fan editado por Juninho para tentar a chegar 1k d fans!")
 $('#button-vote-positive').click();
 
 //global var
